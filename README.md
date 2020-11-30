@@ -1,2 +1,2 @@
 # MyToolProject
-一些工具项目
+MyBatis逆向工程
